@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-4122fa1d5d323f6a65df823f3324c6c51b4a2cd3.jar" />
+    </item>
+    <item
+        jar="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder-3d601ddb375f9aa847455ce16936cca0edd78ab3.jar" />
+    </item>
+    <item
+        jar="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\libs\core-xutils.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="178e0aa05871aba4acd8f2399f4e4d7c8d7aef9a">
+        <dex dex="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\build\intermediates\pre-dexed\debug\core-xutils-ef0cf0e18f4f6ed20d8b6c77fac8c0519c01281a.jar" />
+    </item>
+    <item
+        jar="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\libs\fastjson-1.1.23.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="E:\frame\frameworkxUtils-master\frameworkxUtils-master\app\build\intermediates\pre-dexed\debug\fastjson-1.1.23-604000384d1f72c6a7421ad7a9b7c7821f29c5ef.jar" />
+    </item>
+
+</items>
